@@ -1,0 +1,6 @@
+/**
+ * A Dao
+ */
+
+package Adatkezeles;
+
